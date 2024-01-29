@@ -28,6 +28,9 @@ footer,
 .header-space b strong{
   color: lightskyblue;
 }
+table {
+  border-collapse:collapse;
+}
 thead{
   background-color: #1FA9E5;
   text-align:left ;
